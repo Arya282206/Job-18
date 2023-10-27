@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_orage"
+        android:title="PPLG" />
+    <item
+        android:id="@+id/nav_white"
+        android:title="KULINER" />
+    <item
+        android:id="@+id/nav_purple"
+        android:title="BUSANA" />
+    <item
+        android:id="@+id/nav_blue"
+        android:title="TL" />
+    <item
+        android:id="@+id/nav_red"
+        android:title="TO" />
+
+
+</menu>
